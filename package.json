@@ -1,0 +1,15 @@
+{
+  "name": "tor-proxy",
+  "version": "0.0.1",
+  "author": "Karan Sakhuja <kevin.sakhuja@gmail.com> (http://kevify.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "tor-control": "0.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.7.0"
+  }
+}
